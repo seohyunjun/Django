@@ -1,0 +1,31 @@
+<!-- 호텔 피드백 폼 만들기 -->
+<h1>Hotel Feedback</h1>
+<form action="2_other.html">
+<p>Are you from Inside or Outside Korea?</p>
+<label for="in">Inside: </label>
+<input type="radio" id="in" name="loc" value="in">
+<!-- name space를 공유하므로 하나의 버튼만 체크 가능 -->
+<!-- radio default value="on" -->
+<!-- key:value -> name:value -->
+<br>
+<!-- 라디오 버튼 생성 -->
+<label for="out">Outside: </label>
+<input type="radio" id="out" name="loc" value="out">
+<br>
+
+<p>How was your service?</p>
+<select name="stars" id="">
+    <option value="Great">3</option>
+    <option value="OK">2</option>x
+    <option value="Bad">1</option>
+</select>
+
+<br>
+<p>Any other comments</p>
+<textarea name="textArea" id="textArea" cols="30" rows="10">
+    Input text value
+</textarea>
+
+<br>
+<input type="submit">
+</form>
