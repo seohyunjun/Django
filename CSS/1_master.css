@@ -1,0 +1,10 @@
+h1{
+    color:rgba(255, 0, 0, 0.472);
+    /* Hex color 사용가능 #ff0000 */
+    /* property 나열 */
+}
+
+h2{
+    color:blue;
+    background-color: chartreuse;
+}
