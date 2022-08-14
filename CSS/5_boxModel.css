@@ -1,0 +1,15 @@
+body{
+    font-family:Rubik Iso;
+}
+#up{
+    text-align: center;
+    border: 10px solid blue;
+    margin:20px 20px 100px 100px;
+    /* margin 여백 추가 */
+}
+
+#down{
+    text-align: center;
+    border: 10px solid red;
+    padding-top: 20px;
+}

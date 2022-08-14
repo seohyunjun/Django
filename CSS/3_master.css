@@ -1,0 +1,13 @@
+/* css에서 class는 .으로 시작  */
+.myclass{
+    color:red;
+}
+
+/* css에서 id는 #으로 시작 */
+#one{
+    color:blue;
+}
+
+#two{
+    color:green;
+}
