@@ -1,5 +1,4 @@
-# Django
-
+# Django Bootcamp
 
 > HTML
 #### Email Input Box
@@ -21,3 +20,5 @@
 - 5_boxModel.html : css Box model 
 - 6_bootstrap.html : bootstrap 활용하기
 - 7_bootstrapButton.html : bootstrap 버튼 
+- 8_Navbar : Navbar 
+- 9_container : grid 시스템, layout
